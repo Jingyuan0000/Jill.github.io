@@ -58,14 +58,14 @@
       <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2641">
-              <caret line="520" column="32" lean-forward="false" selection-start-line="520" selection-start-column="32" selection-end-line="520" selection-end-column="32" />
+            <state relative-caret-position="-8527">
+              <caret line="321" column="63" lean-forward="true" selection-start-line="321" selection-start-column="63" selection-end-line="321" selection-end-column="63" />
               <folding>
-                <marker date="1517941195453" expanded="false" signature="46467:46480" ph="..." />
-                <marker date="1517941195453" expanded="false" signature="46588:46770" ph="..." />
-                <marker date="1517941195453" expanded="false" signature="50407:50425" ph="..." />
-                <marker date="1517941195453" expanded="false" signature="51490:51507" ph="..." />
-                <marker date="1517941195453" expanded="false" signature="62869:62886" ph="..." />
+                <marker date="1517942261387" expanded="false" signature="47513:47526" ph="..." />
+                <marker date="1517942261387" expanded="false" signature="47634:47816" ph="..." />
+                <marker date="1517942261387" expanded="false" signature="51453:51471" ph="..." />
+                <marker date="1517942261387" expanded="false" signature="52536:52553" ph="..." />
+                <marker date="1517942261387" expanded="false" signature="63915:63932" ph="..." />
               </folding>
             </state>
           </provider>
@@ -113,7 +113,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="269" />
     <option name="y" value="23" />
-    <option name="width" value="1014" />
+    <option name="width" value="1135" />
     <option name="height" value="770" />
   </component>
   <component name="ProjectView">
@@ -282,15 +282,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517873714608</updated>
-      <workItem from="1517873723108" duration="12141000" />
+      <workItem from="1517873723108" duration="13179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12141000" />
+    <option name="totallyTimeSpent" value="13179000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="269" y="23" width="1014" height="770" extended-state="0" />
+    <frame x="269" y="23" width="1135" height="770" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -305,7 +305,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23372781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20881057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -591,14 +591,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2641">
-          <caret line="520" column="32" lean-forward="false" selection-start-line="520" selection-start-column="32" selection-end-line="520" selection-end-column="32" />
+        <state relative-caret-position="-8527">
+          <caret line="321" column="63" lean-forward="true" selection-start-line="321" selection-start-column="63" selection-end-line="321" selection-end-column="63" />
           <folding>
-            <marker date="1517941195453" expanded="false" signature="46467:46480" ph="..." />
-            <marker date="1517941195453" expanded="false" signature="46588:46770" ph="..." />
-            <marker date="1517941195453" expanded="false" signature="50407:50425" ph="..." />
-            <marker date="1517941195453" expanded="false" signature="51490:51507" ph="..." />
-            <marker date="1517941195453" expanded="false" signature="62869:62886" ph="..." />
+            <marker date="1517942261387" expanded="false" signature="47513:47526" ph="..." />
+            <marker date="1517942261387" expanded="false" signature="47634:47816" ph="..." />
+            <marker date="1517942261387" expanded="false" signature="51453:51471" ph="..." />
+            <marker date="1517942261387" expanded="false" signature="52536:52553" ph="..." />
+            <marker date="1517942261387" expanded="false" signature="63915:63932" ph="..." />
           </folding>
         </state>
       </provider>
